@@ -1,4 +1,4 @@
-// Excluindo uma chave de uma árvore B em C
+//Thiago Henrique Rodrigues Arakaki 2261286
 
 #include <stdio.h>
 #include <stdlib.h>
