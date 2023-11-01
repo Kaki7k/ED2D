@@ -322,6 +322,8 @@ int main() {
   insercao(150);
   insercao(170);
   insercao(190);
+  insercao(180);
+  insercao(160);
   insercao(15);
 
   percorrer(raiz);
