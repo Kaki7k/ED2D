@@ -1,4 +1,5 @@
 //Thiago Henrique Rodrigues Arakaki 2261286
+//Gabriel de Souza Muniz 2475430
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -312,16 +313,16 @@ void percorrer(struct NoArvoreB *meuNo) {
 int main() {
   int item, ch;
 
-  insercao(8);
-  insercao(9);
+  insercao(1);
+  insercao(2);
+  insercao(3);
   insercao(10);
-  insercao(11);
-  insercao(15);
-  insercao(16);
-  insercao(17);
-  insercao(18);
   insercao(20);
-  insercao(23);
+  insercao(30);
+  insercao(150);
+  insercao(170);
+  insercao(190);
+  insercao(15);
 
   percorrer(raiz);
 
